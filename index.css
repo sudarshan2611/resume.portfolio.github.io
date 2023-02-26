@@ -127,7 +127,7 @@ h3 {
   margin-top: 10px;
   margin-bottom: 0;
   font-size: 1em;
-  text-transform: lowercase;
+  /* text-transform: lowercase; */
   color: #0bceaf;
 }
 
